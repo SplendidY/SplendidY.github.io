@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 夜雨</title>
+        <link>https://example.com/posts/</link>
+        <description>Recent content in Posts on 夜雨</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>夜雨</copyright>
+        <lastBuildDate>Wed, 17 Jul 2024 14:24:04 +0800</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My First Post</title>
+        <link>https://example.com/posts/my-first-post/</link>
+        <pubDate>Wed, 17 Jul 2024 14:24:04 +0800</pubDate>
+        
+        <guid>https://example.com/posts/my-first-post/</guid>
+        <description>&lt;p&gt;11111111111111111&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>夜雨</title>
+        <link>https://example.com/</link>
+        <description>Recent content on 夜雨</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>夜雨</copyright>
+        <lastBuildDate>Wed, 17 Jul 2024 14:24:04 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My First Post</title>
+        <link>https://example.com/posts/my-first-post/</link>
+        <pubDate>Wed, 17 Jul 2024 14:24:04 +0800</pubDate>
+        
+        <guid>https://example.com/posts/my-first-post/</guid>
+        <description>&lt;p&gt;11111111111111111&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://example.com/p/test/</link>
+        <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/test/</guid>
+        <description>&lt;h2 id=&#34;test&#34;&gt;test
+&lt;/h2&gt;&lt;p&gt;hello hugo-stack&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>档案</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>查找</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;h3 id=&#34;学业&#34;&gt;学业
+&lt;/h3&gt;&lt;p&gt;ZJU-GISer&lt;/p&gt;
+&lt;p&gt;基本独立地开发过一个小小的WebGIS应用&lt;/p&gt;
+&lt;h3 id=&#34;游戏&#34;&gt;游戏
+&lt;/h3&gt;&lt;p&gt;原版红警繁星战队旅长&lt;br&gt;
+2023年冰天王122强 2024年预定240强&lt;/p&gt;
+&lt;p&gt;英雄联盟S13韩服宗师850点&lt;br&gt;
+艾欧尼亚目前英勇黄铜3&lt;/p&gt;
+&lt;h3 id=&#34;其他&#34;&gt;其他
+&lt;/h3&gt;&lt;p&gt;喜欢Saber&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>链接</title>
+        <link>https://example.com/%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E9%93%BE%E6%8E%A5/</guid>
+        <description>&lt;p&gt;下面是我的github仓库链接&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
