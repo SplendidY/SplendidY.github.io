@@ -29,9 +29,13 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;h3 id=&#34;学业&#34;&gt;学业
-&lt;/h3&gt;&lt;p&gt;ZJU-GISer&lt;/p&gt;
-&lt;p&gt;基本独立地开发过一个小小的WebGIS应用&lt;/p&gt;
+        <description>&lt;img src="https://example.com/%E5%85%B3%E4%BA%8E/saber.png" alt="Featured image of post 关于" /&gt;&lt;h2 id=&#34;关于我&#34;&gt;关于我
+&lt;/h2&gt;&lt;p&gt;我是SplendidY&lt;br&gt;
+你也可以叫我夜雨&lt;br&gt;
+一名GIS大三学生&lt;/p&gt;
+&lt;h3 id=&#34;学业&#34;&gt;学业
+&lt;/h3&gt;&lt;p&gt;ZJU-GISer&lt;br&gt;
+基本独立地开发过一个小小的WebGIS应用&lt;/p&gt;
 &lt;h3 id=&#34;游戏&#34;&gt;游戏
 &lt;/h3&gt;&lt;p&gt;原版红警繁星战队旅长&lt;br&gt;
 2023年冰天王122强 2024年预定240强&lt;/p&gt;

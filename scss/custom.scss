@@ -1,0 +1,17 @@
+/* 全局字体设置 */
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+  }
+  
+  /* 针对常见文本元素的字体设置 */
+  body, 
+  h1, h2, h3, h4, h5, h6, 
+  p, a, 
+  li, span, 
+  div, aside, nav, section, header, footer, article, 
+  button, input, textarea, label {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+  }
+  

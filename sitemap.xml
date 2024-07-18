@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2024-07-17T14:24:04+08:00</lastmod>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/my-first-post/</loc>
-    <lastmod>2024-07-17T14:24:04+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2024-07-17T14:24:04+08:00</lastmod>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/test/</loc>
+    <loc>https://example.com/p/webgis%E5%88%9D%E5%B0%9D%E8%AF%95/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/page/</loc>
@@ -22,8 +22,6 @@
   </url><url>
     <loc>https://example.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/</loc>
   </url><url>
     <loc>https://example.com/tags/</loc>
   </url><url>
